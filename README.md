@@ -2,7 +2,7 @@ Hi, I'm Danil Shubin, a beginner web developer from Krasnoyarsk.
 I have a bachelor's degree in applied computer science and am currently in the process of completing my master's degree in software engineering. 
 I am very interested in IT and modern cross-platform technologies.
 
-
+------------
 **languages and tools:**  
 <p>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
