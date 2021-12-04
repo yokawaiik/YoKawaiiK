@@ -3,7 +3,7 @@ I have a bachelor's degree in applied computer science and am currently in the p
 I am very interested in IT and modern cross-platform technologies.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoKawaiiK&hide=javascript,html)](https://github.com/YoKawaiiK/github-readme-stats)
+
 
 ------------
 **languages and tools:**  
@@ -19,6 +19,8 @@ I am very interested in IT and modern cross-platform technologies.
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
 
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoKawaiiK&hide=javascript,html)](https://github.com/YoKawaiiK/github-readme-stats)
 
 ------------
 **I'm on social networks:**
