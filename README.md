@@ -22,7 +22,10 @@ I am very interested in IT and modern cross-platform technologies.
   <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoKawaiiK&hide=javascript,html)](https://github.com/YoKawaiiK/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokawaiik&theme=onedark&show_icons=true)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokawaiik&layout=compact&theme=onedark)
+
 
 ------------
 **I'm on social networks:**
