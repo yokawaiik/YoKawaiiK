@@ -1,5 +1,5 @@
 Hi, I'm Danil Shubin, a beginner web developer from Krasnoyarsk. 
-I have a bachelor's degree in applied computer science and am currently in the process of completing my master's degree in software engineering. 
+I have a Master of Science Degrees in Software Engineering. 
 I am very interested in IT and modern cross-platform technologies.
 
 
