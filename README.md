@@ -1,4 +1,4 @@
-Hi, I'm Danil Shubin, a beginner Flutter developer from Krasnoyarsk. 
+Hi, I'm Danil Shubin, a beginner Flutter developer. 
 I have a Master of Science Degrees in Software Engineering. 
 I am very interested in IT and modern cross-platform technologies.
 
