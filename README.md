@@ -1,9 +1,20 @@
-Hi, I'm Danil Shubin, a beginner Flutter developer. 
-I have a Master of Science Degrees in Software Engineering. 
-I am very interested in IT and modern cross-platform technologies.
+Hi, I'm Danil, a Flutter developer. I am highly interested in studying modern technologies and various IT stuff.
+I have a Master of Science Degree in Software Engineering. 
 
+**Flutter:**
+- State management: GetX, Bloc (Cubit, Bloc);
+- Database: Isar, Sqflite;
+- Dependencies management: get_it;
+- Routing: go_router;
+- BaaS backend: Supabase, Firebase.
+- Other packages...
 
+I also have knowledge in test automation.
 
+**Test automation:**
+- Node.js: Playwright, Cypress, Hardhat;
+- Java: JUnit5, Selenium, REST Assure, Gson;
+- Other tools: Allure, Github Actions, Jenkins.
 
 ------------
 **languages and tools:**  
@@ -27,7 +38,7 @@ I am very interested in IT and modern cross-platform technologies.
 ![Top Langs](https://github-readme-stats-yokawaiik.vercel.app/api/top-langs/?username=yokawaiik&layout=compact&theme=onedark)
 
 ------------
-**I'm on social networks:**
+**My social networks:**
 <p>
   <a href="https://mail.google.com/mail/u/0/#search/yokawaiik%40gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/yokawaiik"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
