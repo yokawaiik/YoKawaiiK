@@ -1,7 +1,7 @@
 # Hi, I'm Danil 👋 
 ### Flutter Developer | Full-stack & Product-minded Engineer
 
-I am a **Master of Science in Software Engineering** with a focus on building scalable, high-performance mobile applications. My expertise lies in the **Flutter & Firebase** ecosystem, combined with a strong background in backend development and automated quality assurance.
+I am a **Master of Science in Software Engineering** with a focus on building scalable, high-performance mobile and web applications. My expertise lies in the **Flutter & Firebase** ecosystem, combined with a strong background in backend development and automated quality assurance.
 
 I bridge the gap between complex technical implementation and business goals, ensuring efficient delivery of user-centric products.
 
@@ -9,13 +9,15 @@ I bridge the gap between complex technical implementation and business goals, en
 
 ### 🚀 Core Expertise
 * **Mobile Development:** Expert in Flutter & Dart (BLoC/Cubit, GetX, Riverpod). Experience with FlutterFlow for rapid prototyping and MVP launches.
+* **Web Development:** Building modern web interfaces using **Vue.js** and **Nuxt.js**.
 * **Backend & Infrastructure:** Designing and managing scalable backends using Node.js (TypeScript), Firebase (Firestore, Cloud Functions), and Supabase.
-* **Full-cycle Delivery:** Handling the entire process from UI/UX refinement in **Figma** to successful **App Store & Google Play** publishing.
+* **Full-cycle Delivery:** Handling the entire process from UI/UX design in **Figma** to successful **App Store & Google Play** publishing.
 * **Engineering Excellence:** Leveraging modern analytical tools and automated testing frameworks to ensure code reliability and accelerate time-to-market.
 
 ### 🛠 Tech Stack & Tools
-**Frontend:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 
+**Mobile & Web:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) 
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white)
 
 **Backend:** ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white) 
@@ -23,7 +25,8 @@ I bridge the gap between complex technical implementation and business goals, en
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
-**Quality & DevOps:** ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+**Design & DevOps:** ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) 
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
