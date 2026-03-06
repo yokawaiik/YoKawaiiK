@@ -33,7 +33,7 @@ I also have knowledge in test automation.
   <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats-yokawaiik.vercel.app/api?username=yokawaiik&theme=onedark&show_icons=true)
+![GitHub stats](https://github-readme-stats-yokawaiik.vercel.app/api?username=yokawaiik&theme=onedark&show_icons=true)
 <br/>
 ![Top Langs](https://github-readme-stats-yokawaiik.vercel.app/api/top-langs/?username=yokawaiik&layout=compact&theme=onedark)
 
